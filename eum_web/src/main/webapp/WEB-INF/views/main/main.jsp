@@ -7,7 +7,6 @@
 <title>메인 페이지</title>
 </head>
 <body>
-<h1>미진추가</h1>
  <h1>메인페이지</h1>
 </body>
 </html>
